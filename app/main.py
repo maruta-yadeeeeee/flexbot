@@ -1,6 +1,6 @@
 import os
 # 環境変数からトークンを読み取る
-TOKEN = "MTE0Mzg0NTI5MDQ3NTAxMjE2Nw.GDx8Pd._bqGLyiArDnYkIrzj-8ci0N32LnDNPEodoVW5E"
+TOKEN = os.environ.get("DISCORD_TOKEN")
 import discord
 import typing
 import discord
