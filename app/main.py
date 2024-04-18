@@ -17,7 +17,6 @@ from discord.ext.commands import BucketType
 
 
 from discord.ext import commands, tasks
-import feedparser
 import pytz
 import random
 import string
