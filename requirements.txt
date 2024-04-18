@@ -4,9 +4,3 @@ discord-ui==5.1.6
 Pillow==10.1.0
 captcha==0.5.0
 pytz==2023.3.post1
-typing
-unicodedata
-random
-string
-re
-shutil
